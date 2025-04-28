@@ -20,5 +20,3 @@ print("Meet " + name + ", a " + str(age) + " year old hero with a magic power le
 time.sleep(2)
 
 print("Her adventure is about to begin...")
-
-time.sleep(2)
